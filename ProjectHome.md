@@ -1,0 +1,1 @@
+SML is relational language for designing secrecy models.  A designer can use SML to define a model and its formal semantics.  SML can also aid in composing of secrecy models:  It can be used to design mixed or hybrid models. SML can be translated into Alloy  for formal analysis.
